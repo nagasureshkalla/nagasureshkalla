@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagasureshkalla" alt="nagasureshkalla" /></a> </p>
 
-- 🌱 I’m currently learning **Java**,**Android**,**SpringBoot**,**Django**,**Machine Learning**,**Unreal Engine**
+- 🌱 I’m currently learning **Java**,**Android**,**SpringBoot**,**Django**,**Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://nagasureshkalla.web.app](https://nagasureshkalla.web.app)
+- 👨‍💻 All of my details are available at [https://nagasureshkalla.web.app](https://nagasureshkalla.web.app)
 
 - 💬 Ask me about **Python,Java, Flask,SpringBoot**
 
