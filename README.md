@@ -1,11 +1,18 @@
 <h1 align="center" style="background-color:green">Hi 👋, I'm Naga Suresh Kalla</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A Full-Stack Developer</h3>
+
+
+
+<div align="center" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="naga-suresh-kalla-aa7a61166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/naga-suresh-kalla-aa7a61166?trk=profile-badge">LinkedIN</a></div>
+              
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagasureshkalla&label=Profile%20views&color=0e75b6&style=flat" alt="nagasureshkalla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagasureshkalla" alt="nagasureshkalla" /></a> </p>
 
-- 🌱 I’m currently learning **Java**,**Android**,**SpringBoot**,**Django**,**Machine Learning**
+- 👌 I’m Proficient at **Java**,**Android**,**SpringBoot**,**Django**,**Flask**,**Python**
+  
+- 🌱 I’m currently learning **Machine Learning**,**AI**
 
 - 👨‍💻 All of my details are available at [https://nagasureshkalla.web.app](https://nagasureshkalla.web.app)
 
