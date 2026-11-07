@@ -1,38 +1,184 @@
-<h1 align="center" style="background-color:green">Hi 👋, I'm Naga Suresh Kalla</h1>
-<h3 align="center">A Full-Stack Developer</h3>
-
-
-
-<div align="center" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="naga-suresh-kalla-aa7a61166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/naga-suresh-kalla-aa7a61166?trk=profile-badge">LinkedIN</a></div>
-              
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagasureshkalla&label=Profile%20views&color=0e75b6&style=flat" alt="nagasureshkalla" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagasureshkalla" alt="nagasureshkalla" /></a> </p>
-
-- 👌 I’m Proficient at **Java**,**Android**,**SpringBoot**,**Django**,**Flask**,**Python**
-  
-- 🌱 I’m currently learning **Machine Learning**,**AI**
-
-- 👨‍💻 All of my details are available at [https://nagasureshkalla.web.app](https://nagasureshkalla.web.app)
-
-- 💬 Ask me about **Python,Java, Flask,SpringBoot**
-
-- 📫 How to reach me **sureshkalla554@gmail.com**
-
-- 📄 Know about my experiences [https://nagasureshkalla.web.app/images/NagaSureshKalla.pdf](https://nagasureshkalla.web.app/images/NagaSureshKalla.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naga-suresh-kalla-aa7a61166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naga-suresh-kalla-aa7a61166" height="30" width="40" /></a>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Naga%20Suresh%20Kalla&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20ML%20Builder&descSize=18&descAlignY=58&animation=fadeIn" alt="Header" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://nagasureshkalla.web.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Naga+Suresh+Kalla;Full-Stack+Developer+%E2%80%A2+Java+%E2%80%A2+Python;Building+LLM+Agents+%F0%9F%A4%96;Exploring+Generative+AI+%26+Video+Models+%F0%9F%8E%AC;Turning+ideas+into+shipped+products+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagasureshkalla&show_icons=true&locale=en&layout=compact" alt="nagasureshkalla" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/naga-suresh-kalla-aa7a61166"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://nagasureshkalla.web.app"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Portfolio" /></a>
+  <a href="https://nagasureshkalla.web.app/images/NagaSureshKalla.pdf"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+  <a href="mailto:sureshkalla554@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=nagasureshkalla&label=Profile%20views&color=36BCF7&style=flat-square" alt="Profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagasureshkalla&show_icons=true&locale=en" alt="nagasureshkalla" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagasureshkalla&" alt="nagasureshkalla" /></p>
+## 🧑‍💻 About Me
 
+I'm a **full-stack developer** who loves building end-to-end products — from Android apps and Spring Boot / Django back ends to cloud deployments. Lately I've been going deep into **AI engineering**: running local LLMs, building autonomous agents, and training generative video models on my own GPU.
+
+- 🔭 Building **AI agents & generative AI tools** on local hardware
+- 👌 Proficient in **Java**, **Android**, **Spring Boot**, **Django**, **Flask** and **Python**
+- 🌱 Currently learning **LLM fine-tuning, diffusion models and agent evaluation**
+- 💬 Ask me about **Python, Java, Flask, Spring Boot, LLM agents**
+- 👨‍💻 Everything about me → [nagasureshkalla.web.app](https://nagasureshkalla.web.app)
+- 📫 Reach me at **sureshkalla554@gmail.com**
+
+---
+
+## 🤖 What I'm Building in AI
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 LiveStudio AI</h3>
+      Generative video pipeline that distills a large text/image-to-video <b>teacher model (Wan 2.2)</b> into a faster student model — dataset generation, training, checkpointing and a web app for previewing results.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Diffusers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 AgentHub</h3>
+      A local <b>agent studio</b> for designing, running and testing LLM agents fully offline on open models — no cloud API required.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Local%20LLMs-6E40C9?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Harness² Studio</h3>
+      A <b>meta-agent harness</b> that evaluates my other agents and iteratively improves their prompts, tools and behaviour.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Multi--Agent-FF6F00?style=flat-square" />
+      <img src="https://img.shields.io/badge/Evals-0e75b6?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Job Agent</h3>
+      An <b>auto-apply AI agent</b> that finds relevant jobs, tailors applications and tracks everything from a single control-room dashboard.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Automation-2E7D32?style=flat-square" />
+      <img src="https://img.shields.io/badge/Web%20App-1a1b27?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ Naga Code Hub</h3>
+      A hub that lets my PCs drive <b>AI coding assistants</b> (Claude, Codex, Copilot) remotely — sessions, approvals and a .NET web client.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI%20Coding-36BCF7?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💎 On-Device Gemma</h3>
+      Experiments running Google's small <b>Gemma</b> models locally behind a lightweight app server.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Edge%20AI-6E40C9?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+### 🧭 AI Focus Areas
+
+```text
+🤖 Agents        →  tool use · multi-agent orchestration · self-improving harnesses
+🎬 Generative    →  diffusion models · text/image-to-video · knowledge distillation
+🖥️ Local AI      →  Ollama · open-weight LLMs · GPU memory optimisation
+📏 Evaluation    →  agent evals · benchmarks · regression testing for prompts
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>🧠 AI / ML & Data</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI and ML" />
+  <br/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=java,py,kotlin,dart,js,c,cpp,cs,php,rust,bash&theme=dark" alt="Languages" />
+</details>
+
+<details open>
+<summary><b>🧩 Frameworks & Mobile</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,django,flask,react,android,flutter,html,css,materialize&theme=dark" alt="Frameworks" />
+<br/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase&theme=dark" alt="Databases" />
+<br/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" />
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,heroku,docker,kubernetes,jenkins,kafka,nginx,linux,git&theme=dark" alt="Cloud and DevOps" />
+</details>
+
+<details>
+<summary><b>🧪 Testing & Creative Tools</b></summary>
+<br/>
+<img src="https://skillicons.dev/icons?i=selenium,postman,blender,unreal&theme=dark" alt="Other tools" />
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nagasureshkalla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagasureshkalla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nagasureshkalla&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nagasureshkalla&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagasureshkalla&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“The best way to predict the future is to build it — one model, one agent, one commit at a time.”</i>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" width="100%" />
+</p>
